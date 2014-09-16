@@ -33,4 +33,5 @@ Ejemplo de uso:
         texto:      STRING: Texto a desplegarce en la caja de informacion.
 
 <b>callback</b>
+
         callback:     FUNCION: Si se define, se ejecutara al momento de aceptar las politicas.
